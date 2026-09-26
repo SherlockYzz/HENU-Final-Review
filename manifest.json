@@ -7304,6 +7304,74 @@
           "licenseStatus": "public-review-only"
         }
       ]
+    },
+    {
+      "name": "军事理论",
+      "note": "收录资料提供者声明原创并授权公开的军事理论练习题；原标题中的年份与期末考试字样不代表河南大学真题认证，答案需自行核对。",
+      "assets": [
+        {
+          "subject": "军事理论",
+          "role": "题库练习",
+          "title": "军事理论-综合 课后习题.txt",
+          "publicPath": "军事理论/题库练习/军事理论-综合 课后习题.txt",
+          "sourceType": "personal-note",
+          "sourceNote": "资料提供者声明本人为作者并授权公开再分发；从原 DOCX 提取文字且去除了作答结果截图。题目与答案未经逐题校对，不作为河南大学官方试题。",
+          "reviewStatus": "basic-reviewed",
+          "uncertainty": "content_uncertain",
+          "containsPersonalInfo": false,
+          "licenseStatus": "authorized-redistribution",
+          "bytes": 9456,
+          "sha256": "6df8a43d08ce7c32feb37f912fbc7a10028db8e67476e637dda59dfd088e2586"
+        },
+        {
+          "subject": "军事理论",
+          "role": "题库练习",
+          "title": "军事理论-综合版智慧树知到期末考试答案章节答案2024年国防大学.docx",
+          "publicPath": "军事理论/题库练习/军事理论-综合版智慧树知到期末考试答案章节答案2024年国防大学.docx",
+          "sourceType": "personal-note",
+          "sourceNote": "资料提供者声明本人为本文件题目与答案作者并授权公开再分发；原文件名提及智慧树知到、国防大学及 2024 年，未核实为河南大学真题，按练习题库使用，答案未经逐题校对。",
+          "reviewStatus": "basic-reviewed",
+          "uncertainty": "content_uncertain",
+          "containsPersonalInfo": false,
+          "licenseStatus": "authorized-redistribution",
+          "bytes": 110329,
+          "sha256": "54de966ead086f719583a33fba8fb520db300a0d3819c4957cf15b3f9d244c2b"
+        },
+        {
+          "subject": "军事理论",
+          "role": "题库练习",
+          "title": "2025年军事理论期末考试题库及答案.pdf",
+          "publicPath": "军事理论/题库练习/2025年军事理论期末考试题库及答案.pdf",
+          "sourceType": "personal-note",
+          "sourceNote": "资料提供者声明本人为作者并授权公开再分发；文件标题保留原有“2025年”字样，未核实为河南大学当年真题，按练习题库使用，答案未经逐题校对。",
+          "reviewStatus": "basic-reviewed",
+          "uncertainty": "content_uncertain",
+          "containsPersonalInfo": false,
+          "licenseStatus": "authorized-redistribution",
+          "bytes": 16320931,
+          "sha256": "59f1d84027dce55d7c1dddb1803c80ecc720bff7f51b0f7f5de7fc46900cff5f"
+        }
+      ]
+    },
+    {
+      "name": "大学生心理健康教育",
+      "note": "收录资料提供者声明原创并授权公开的章节练习题与答案；原文提示答案可能有误，需自行核对。",
+      "assets": [
+        {
+          "subject": "大学生心理健康教育",
+          "role": "题库练习",
+          "title": "大学生心理健康教育答案.txt",
+          "publicPath": "大学生心理健康教育/题库练习/大学生心理健康教育答案.txt",
+          "sourceType": "personal-note",
+          "sourceNote": "资料提供者声明本人为本文件题目与答案作者并授权公开再分发；原文注明答案来自网页且有第三方文档页链接，该页面与作者的关系未经独立核验，按练习题库使用，答案未经逐题校对。",
+          "reviewStatus": "basic-reviewed",
+          "uncertainty": "content_uncertain",
+          "containsPersonalInfo": false,
+          "licenseStatus": "authorized-redistribution",
+          "bytes": 42247,
+          "sha256": "8db0dfab5bcb46ede563a0d4dc4c21cbc10f8e9cb72e56bbad8303f58494c6e6"
+        }
+      ]
     }
   ]
 }
