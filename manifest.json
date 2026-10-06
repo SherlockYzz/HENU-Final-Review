@@ -7157,7 +7157,7 @@
     },
     {
       "name": "数据结构",
-      "note": "收录数据结构课程电子版教材。",
+      "note": "收录数据结构课程电子版教材与期末复习总结笔记。",
       "assets": [
         {
           "subject": "数据结构",
@@ -7174,6 +7174,27 @@
           "attribution": {
             "collectors": [
               "程芷嘉"
+            ]
+          }
+        },
+        {
+          "subject": "数据结构",
+          "role": "笔记总结",
+          "title": "数据结构_笔记_期末复习总结第1-2章绪论与线性表_v1.md",
+          "publicPath": "数据结构/笔记总结/数据结构_笔记_期末复习总结第1-2章绪论与线性表_v1.md",
+          "bytes": 64564,
+          "sha256": "57611c52806b95ce052ed64ed30c90ca07b4f2ee8536f85ff0a0b4e2ce91cd91",
+          "sourceType": "personal-note",
+          "sourceNote": "严蔚敏《数据结构（C语言版）》绪论与线性表期末复习总结笔记。",
+          "reviewStatus": "basic-reviewed",
+          "containsPersonalInfo": false,
+          "licenseStatus": "learning-reference",
+          "attribution": {
+            "authors": [
+              "折木柯南"
+            ],
+            "collectors": [
+              "于子倬"
             ]
           }
         }
