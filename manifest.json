@@ -7087,7 +7087,7 @@
     },
     {
       "name": "数字逻辑",
-      "note": "收录数字逻辑教材、学习辅导与笔记。",
+      "note": "收录数字逻辑教材、课件、学习辅导与笔记。",
       "assets": [
         {
           "bytes": 6497936,
@@ -7152,6 +7152,86 @@
             ]
           },
           "licenseStatus": "authorized-redistribution"
+        },
+        {
+          "subject": "数字逻辑",
+          "role": "课件",
+          "title": "数字逻辑_课件_第1章数字逻辑基础第1讲_精简版.pdf",
+          "publicPath": "数字逻辑/课件/数字逻辑_课件_第1章数字逻辑基础第1讲_精简版.pdf",
+          "bytes": 1638782,
+          "sha256": "55b29f63ec3de1c7ec386bcb52c9022b37802689d0bd65083339a1fb0b3108d7",
+          "year": "2022-2023",
+          "college": "河南大学",
+          "sourceType": "teacher-courseware",
+          "sourceNote": "河南大学数字逻辑课程公开课件。",
+          "reviewStatus": "basic-reviewed",
+          "containsPersonalInfo": false,
+          "licenseStatus": "learning-reference",
+          "attribution": {
+            "collectors": [
+              "于子倬"
+            ]
+          }
+        },
+        {
+          "subject": "数字逻辑",
+          "role": "课件",
+          "title": "数字逻辑_课件_第1章数字逻辑基础第2讲.pdf",
+          "publicPath": "数字逻辑/课件/数字逻辑_课件_第1章数字逻辑基础第2讲.pdf",
+          "bytes": 1318197,
+          "sha256": "5622da762069d8d129611c77965f93f1d6cdbd717932f00ce3640f73dcc78647",
+          "year": "2022-2023",
+          "college": "河南大学",
+          "sourceType": "teacher-courseware",
+          "sourceNote": "河南大学数字逻辑课程公开课件。",
+          "reviewStatus": "basic-reviewed",
+          "containsPersonalInfo": false,
+          "licenseStatus": "learning-reference",
+          "attribution": {
+            "collectors": [
+              "于子倬"
+            ]
+          }
+        },
+        {
+          "subject": "数字逻辑",
+          "role": "课件",
+          "title": "数字逻辑_课件_第4章常用组合逻辑电路第9-11讲_精简版.pdf",
+          "publicPath": "数字逻辑/课件/数字逻辑_课件_第4章常用组合逻辑电路第9-11讲_精简版.pdf",
+          "bytes": 1989337,
+          "sha256": "40e320396e934e045600a6abcc3cfc0d86f26bb54ec753485386441f676a8dd9",
+          "year": "2022-2023",
+          "college": "河南大学",
+          "sourceType": "teacher-courseware",
+          "sourceNote": "河南大学数字逻辑课程公开课件。",
+          "reviewStatus": "basic-reviewed",
+          "containsPersonalInfo": false,
+          "licenseStatus": "learning-reference",
+          "attribution": {
+            "collectors": [
+              "于子倬"
+            ]
+          }
+        },
+        {
+          "subject": "数字逻辑",
+          "role": "课件",
+          "title": "数字逻辑_课件_第5章时序逻辑电路第12-13讲_精简版.pdf",
+          "publicPath": "数字逻辑/课件/数字逻辑_课件_第5章时序逻辑电路第12-13讲_精简版.pdf",
+          "bytes": 1879536,
+          "sha256": "bd1595f0f9bd781357141443c0f624d4631e3c3ccf92466652c7249e6c23cfda",
+          "year": "2022-2023",
+          "college": "河南大学",
+          "sourceType": "teacher-courseware",
+          "sourceNote": "河南大学数字逻辑课程公开课件。",
+          "reviewStatus": "basic-reviewed",
+          "containsPersonalInfo": false,
+          "licenseStatus": "learning-reference",
+          "attribution": {
+            "collectors": [
+              "于子倬"
+            ]
+          }
         }
       ]
     },
