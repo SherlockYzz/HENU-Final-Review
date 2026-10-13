@@ -3468,104 +3468,119 @@
       ]
     },
     {
-      "name": "移动开发",
-      "note": "包含考前复习讲义和移动开发/HarmonyOS 相关 PPT 课件。",
+      "name": "移动应用开发技术",
+      "note": "收录移动应用开发技术课程的复习讲义、HarmonyOS/OpenHarmony分章课件与2025年课程课件；平台及版本差异保留在资料标题和内容中。",
       "assets": [
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "复习讲义",
           "title": "移动开发_考前复习知识点讲义.pdf",
-          "publicPath": "移动开发/复习讲义/移动开发_考前复习知识点讲义.pdf",
+          "publicPath": "移动应用开发技术/复习讲义/移动开发_考前复习知识点讲义.pdf",
           "bytes": 312356,
           "sha256": "dac9bd41658c3736785a1ccfc5ffc5531de62de69fd1fd2adc8e00181603b7d5"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_01初识HarmonyOS_正式.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_01初识HarmonyOS_正式.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_01初识HarmonyOS_正式.pptx",
           "bytes": 4009721,
           "sha256": "343da25899c13325092f0774fcc5b7774620573227767006b71325d37a7682ae"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_1移动应用开发技术概述.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_1移动应用开发技术概述.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_1移动应用开发技术概述.pptx",
           "bytes": 10258981,
           "sha256": "640d0794cc5411fbef3abd5c9142b1a5c67f492d0f9284b24a83fd2be66bd463"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_2_TS对象_02.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_2_TS对象_02.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_2_TS对象_02.pptx",
           "bytes": 1857705,
           "sha256": "bdc887a21f0259dbedc107285d85f7793d68e112b3f8342715c531926cc5d7ff"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_2_TS语法_LG_01.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_2_TS语法_LG_01.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_2_TS语法_LG_01.pptx",
           "bytes": 1578407,
           "sha256": "2331f95af0a1ff52942c53f28e925fea423bfbb806a1ab1551d3f9696033870f"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_3_ArkUI_01.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_3_ArkUI_01.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_3_ArkUI_01.pptx",
           "bytes": 3196495,
           "sha256": "b9629fd36da4d2ca1b07f3304da3be33704ff4a07d61ec31e1068279432af56a"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_4常见布局.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_4常见布局.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_4常见布局.pptx",
           "bytes": 2187410,
           "sha256": "269cc6c008a515d527db30006ffb514a5ed07e1164844cd9160db9d6e8447bf1"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_5组件_jun.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_5组件_jun.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_5组件_jun.pptx",
           "bytes": 4157902,
           "sha256": "502b35e912e0d64ae1155e5ef2226b8ae215abafd2b972fa868a6ee88d673fee"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_6特殊组件_jun.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_6特殊组件_jun.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_6特殊组件_jun.pptx",
           "bytes": 12084662,
           "sha256": "0139b2ecb0e18160f6d098f3aec87f398a43d51838696229241fd63031ddd064"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_特殊组件.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_特殊组件.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_特殊组件.pptx",
           "bytes": 7012455,
           "sha256": "f84061fe2877c4afc115838be4bf4d909582568ddcd007d0764b95396749cde2"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_第6章路由和组件导航.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_第6章路由和组件导航.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_第6章路由和组件导航.pptx",
           "bytes": 2501108,
           "sha256": "2ab4d3763a7e4c556c4063baa83c4861afbbaeb261fd98ae1c7bad512223ff93"
         },
         {
-          "subject": "移动开发",
+          "subject": "移动应用开发技术",
           "role": "课件",
           "title": "移动开发_课件_第8章动画和网络请求.pptx",
-          "publicPath": "移动开发/课件/移动开发_课件_第8章动画和网络请求.pptx",
+          "publicPath": "移动应用开发技术/课件/移动开发_课件_第8章动画和网络请求.pptx",
           "bytes": 2844046,
           "sha256": "97c0831cacd5b7b653caea7b133bd9fc4f9cf668669e5535b1eab2e498eec316"
+        },
+        {
+          "subject": "移动应用开发技术",
+          "role": "课件",
+          "title": "移动应用开发技术（鸿蒙）_课件_2025课程课件.pdf",
+          "publicPath": "移动应用开发技术/课件/移动应用开发技术（鸿蒙）_课件_2025课程课件.pdf",
+          "bytes": 48152606,
+          "sha256": "35d44721c298a4f16ccfab4ca749a9e9a7735719ad95eacfdb6bf26dfa3787b4",
+          "year": 2025,
+          "college": "软件学院",
+          "containsPersonalInfo": false,
+          "sourceType": "teacher-courseware",
+          "sourceNote": "复核前记录：文件内容标注为河南大学软件学院移动应用开发技术课程课件，日期为2025年2月18日；公开再分发边界待维护者确认。 复核结论：资料维护者已人工复核课程归属、来源、隐私风险与公开边界。 复核依据：维护者已授权放行本批：教师课件、同学自行整理的笔记与讲义、以及学生凭记忆整理的「回忆版」考题。出版教材、答案与全解、题库、真实试卷卷面不在本次授权范围，保持待复核。 第127页含教师本机路径，维护者已知悉并决定保留原文件不作遮挡。",
+          "reviewStatus": "basic-reviewed",
+          "licenseStatus": "learning-reference"
         }
       ]
     },
@@ -7202,27 +7217,6 @@
           "reviewStatus": "needs_review",
           "uncertainty": "public_boundary_uncertain",
           "licenseStatus": "public-review-only"
-        }
-      ]
-    },
-    {
-      "name": "移动应用开发技术（鸿蒙）",
-      "note": "收录移动应用开发技术（鸿蒙）2025 年课程课件，维护者已确认为本校教师课件并授权公开。",
-      "assets": [
-        {
-          "subject": "移动应用开发技术（鸿蒙）",
-          "role": "课件",
-          "title": "移动应用开发技术（鸿蒙）_课件_2025课程课件.pdf",
-          "publicPath": "移动应用开发技术（鸿蒙）/课件/移动应用开发技术（鸿蒙）_课件_2025课程课件.pdf",
-          "bytes": 48152606,
-          "sha256": "35d44721c298a4f16ccfab4ca749a9e9a7735719ad95eacfdb6bf26dfa3787b4",
-          "year": 2025,
-          "college": "软件学院",
-          "containsPersonalInfo": false,
-          "sourceType": "teacher-courseware",
-          "sourceNote": "复核前记录：文件内容标注为河南大学软件学院移动应用开发技术课程课件，日期为2025年2月18日；公开再分发边界待维护者确认。 复核结论：资料维护者已人工复核课程归属、来源、隐私风险与公开边界。 复核依据：维护者已授权放行本批：教师课件、同学自行整理的笔记与讲义、以及学生凭记忆整理的「回忆版」考题。出版教材、答案与全解、题库、真实试卷卷面不在本次授权范围，保持待复核。 第127页含教师本机路径，维护者已知悉并决定保留原文件不作遮挡。",
-          "reviewStatus": "basic-reviewed",
-          "licenseStatus": "learning-reference"
         }
       ]
     },
