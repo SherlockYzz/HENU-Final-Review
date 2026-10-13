@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T07:35:35.195Z",
+  "generatedAt": "2026-10-13T07:44:07.257Z",
   "subjects": [
     {
       "name": "高等数学A（一）",
@@ -7435,6 +7435,27 @@
           "reviewStatus": "basic-reviewed",
           "containsPersonalInfo": false,
           "licenseStatus": "learning-reference"
+        }
+      ]
+    },
+    {
+      "name": "网络应用编程",
+      "note": "收录网络应用编程课程的Rust网络软件设计参考书稿；该资料为编写中样稿，内容准确性尚未完成审核，不作为官方教材或考试依据。",
+      "assets": [
+        {
+          "subject": "网络应用编程",
+          "role": "电子版教材",
+          "title": "Rust网络编程_教材_网络软件设计与实现_2024.pdf",
+          "publicPath": "网络应用编程/电子版教材/Rust网络编程_教材_网络软件设计与实现_2024.pdf",
+          "bytes": 9812470,
+          "sha256": "ce5c5e32d06297b27ee57b00bfed9a36077190ea316cd2d2491a51f8c2c7804f",
+          "year": 2024,
+          "containsPersonalInfo": false,
+          "sourceType": "other",
+          "sourceNote": "资料为302页《基于Rust的网络软件设计与实现》2024-12-03版编写中样稿。2026年10月13日，维护者在获知样稿文字层含“严禁复制、外传”后，明确确认作者已允许将这份样稿公开到GitHub；原文件内容及声明均保留。按网络应用编程课程的参考教材收录，Rust是使用语言，不作为新的正式科目。来源与公开再分发许可已确认，内容准确性尚未完成审核，不认定为河南大学官方教材或考试依据。未推断原作者姓名或具体授权文件形式。",
+          "reviewStatus": "verified",
+          "licenseStatus": "authorized-redistribution",
+          "uncertainty": "content_uncertain"
         }
       ]
     }
