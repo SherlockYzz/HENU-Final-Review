@@ -28,7 +28,7 @@
     },
     {
       "name": "高等数学A（二）",
-      "note": "收录当前已整理的高数课程 PPT 课件、考前复习讲义、微分方程自总结笔记和2021-2025年高数A/B卷真题（含 23 级回忆版）。",
+      "note": "收录当前已整理的高数课程 PPT 课件、考前复习讲义、微分方程自总结笔记和2021-2025年高数A卷真题（含 23 级回忆版）。",
       "assets": [
         {
           "subject": "高等数学A（二）",
@@ -415,36 +415,10 @@
         {
           "subject": "高等数学A（二）",
           "role": "往年真题",
-          "title": "高等数学A（二）_真题_2021-2022高数B（二）A卷.pdf",
-          "publicPath": "高等数学A（二）/往年真题/高等数学A（二）_真题_2021-2022高数B（二）A卷.pdf",
-          "bytes": 149240,
-          "sha256": "d7151f6d9a998937eb1a14ff66cf9074b647884dbfebb0caac326e123c605e87",
-          "attribution": {
-            "collectors": [
-              "陈梓俊（Coder-Taylor）"
-            ]
-          }
-        },
-        {
-          "subject": "高等数学A（二）",
-          "role": "往年真题",
           "title": "高等数学A（二）_真题_2022-2023高数A（二）A卷.pdf",
           "publicPath": "高等数学A（二）/往年真题/高等数学A（二）_真题_2022-2023高数A（二）A卷.pdf",
           "bytes": 328408,
           "sha256": "a2cf536d39d511989e468fb18ec57b74b35689817708b1b02451aa93046c4d56",
-          "attribution": {
-            "collectors": [
-              "陈梓俊（Coder-Taylor）"
-            ]
-          }
-        },
-        {
-          "subject": "高等数学A（二）",
-          "role": "往年真题",
-          "title": "高等数学A（二）_真题_2022-2023高数B（二）A卷.pdf",
-          "publicPath": "高等数学A（二）/往年真题/高等数学A（二）_真题_2022-2023高数B（二）A卷.pdf",
-          "bytes": 338103,
-          "sha256": "befdb023af5027705d6955b9fad4b4b358839611d29dcbcf87dc37114a46e989",
           "attribution": {
             "collectors": [
               "陈梓俊（Coder-Taylor）"
@@ -467,36 +441,10 @@
         {
           "subject": "高等数学A（二）",
           "role": "往年真题",
-          "title": "高等数学A（二）_真题_2023-2024高数B（二）A卷.pdf",
-          "publicPath": "高等数学A（二）/往年真题/高等数学A（二）_真题_2023-2024高数B（二）A卷.pdf",
-          "bytes": 367470,
-          "sha256": "3ab83bb5f507e7374ba955e155868ea84a0f2fe4026ba3a572b6663636776f99",
-          "attribution": {
-            "collectors": [
-              "陈梓俊（Coder-Taylor）"
-            ]
-          }
-        },
-        {
-          "subject": "高等数学A（二）",
-          "role": "往年真题",
           "title": "高等数学A（二）_真题_2024-2025高数A（二）A卷.pdf",
           "publicPath": "高等数学A（二）/往年真题/高等数学A（二）_真题_2024-2025高数A（二）A卷.pdf",
           "bytes": 293216,
           "sha256": "1204d6839401131783dacc52bee2651cfb57d741e050c5b37b70ff00d1f3191b",
-          "attribution": {
-            "collectors": [
-              "陈梓俊（Coder-Taylor）"
-            ]
-          }
-        },
-        {
-          "subject": "高等数学A（二）",
-          "role": "往年真题",
-          "title": "高等数学A（二）_真题_2024-2025高数B（二）A卷.pdf",
-          "publicPath": "高等数学A（二）/往年真题/高等数学A（二）_真题_2024-2025高数B（二）A卷.pdf",
-          "bytes": 353306,
-          "sha256": "4e5cd20054b6d9b95c267c17afe61adca838eb6323bb8aed79608aa1ba1321ab",
           "attribution": {
             "collectors": [
               "陈梓俊（Coder-Taylor）"
@@ -532,6 +480,64 @@
           "attribution": {
             "collectors": [
               "程芷嘉"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "高等数学B（二）",
+      "note": "收录2021-2022、2022-2023、2023-2024、2024-2025学年的高等数学B（二）A卷真题；保留原试卷标题。",
+      "assets": [
+        {
+          "subject": "高等数学B（二）",
+          "role": "往年真题",
+          "title": "高等数学A（二）_真题_2021-2022高数B（二）A卷.pdf",
+          "publicPath": "高等数学B（二）/往年真题/高等数学A（二）_真题_2021-2022高数B（二）A卷.pdf",
+          "bytes": 149240,
+          "sha256": "d7151f6d9a998937eb1a14ff66cf9074b647884dbfebb0caac326e123c605e87",
+          "attribution": {
+            "collectors": [
+              "陈梓俊（Coder-Taylor）"
+            ]
+          }
+        },
+        {
+          "subject": "高等数学B（二）",
+          "role": "往年真题",
+          "title": "高等数学A（二）_真题_2022-2023高数B（二）A卷.pdf",
+          "publicPath": "高等数学B（二）/往年真题/高等数学A（二）_真题_2022-2023高数B（二）A卷.pdf",
+          "bytes": 338103,
+          "sha256": "befdb023af5027705d6955b9fad4b4b358839611d29dcbcf87dc37114a46e989",
+          "attribution": {
+            "collectors": [
+              "陈梓俊（Coder-Taylor）"
+            ]
+          }
+        },
+        {
+          "subject": "高等数学B（二）",
+          "role": "往年真题",
+          "title": "高等数学A（二）_真题_2023-2024高数B（二）A卷.pdf",
+          "publicPath": "高等数学B（二）/往年真题/高等数学A（二）_真题_2023-2024高数B（二）A卷.pdf",
+          "bytes": 367470,
+          "sha256": "3ab83bb5f507e7374ba955e155868ea84a0f2fe4026ba3a572b6663636776f99",
+          "attribution": {
+            "collectors": [
+              "陈梓俊（Coder-Taylor）"
+            ]
+          }
+        },
+        {
+          "subject": "高等数学B（二）",
+          "role": "往年真题",
+          "title": "高等数学A（二）_真题_2024-2025高数B（二）A卷.pdf",
+          "publicPath": "高等数学B（二）/往年真题/高等数学A（二）_真题_2024-2025高数B（二）A卷.pdf",
+          "bytes": 353306,
+          "sha256": "4e5cd20054b6d9b95c267c17afe61adca838eb6323bb8aed79608aa1ba1321ab",
+          "attribution": {
+            "collectors": [
+              "陈梓俊（Coder-Taylor）"
             ]
           }
         }
